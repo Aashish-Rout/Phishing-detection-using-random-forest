@@ -1,1 +1,3 @@
 # Phishing-detection-using-random-forest
+Phishing detection refers to the process of identifying and preventing phishing attacks, which are fraudulent attempts to deceive individuals into revealing sensitive information such as passwords, credit card numbers, or personal details. Phishing attacks are typically carried out through deceptive emails, fake websites, or instant messages, aiming to trick users into thinking they are interacting with a legitimate organization or person.
+It's detection is necessary because phishing attacks can lead to significant financial losses, identity theft, and other forms of cybercrime. By detecting and blocking phishing attempts, individuals and organizations can protect themselves and their sensitive information.
